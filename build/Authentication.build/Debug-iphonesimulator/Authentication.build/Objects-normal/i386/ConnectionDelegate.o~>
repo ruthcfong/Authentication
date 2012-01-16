@@ -1,0 +1,7 @@
+/Users/ruthcfong/Desktop/Authentication/Classes/ConnectionDelegate.m:13: error: no declaration of property 'data' found in the interface
+/Users/ruthcfong/Desktop/Authentication/Classes/ConnectionDelegate.m: In function '-[ConnectionDelegate init]':
+/Users/ruthcfong/Desktop/Authentication/Classes/ConnectionDelegate.m:20: error: request for member 'data' in something not a structure or union
+/Users/ruthcfong/Desktop/Authentication/Classes/ConnectionDelegate.m: In function '-[ConnectionDelegate connection:didReceiveResponse:]':
+/Users/ruthcfong/Desktop/Authentication/Classes/ConnectionDelegate.m:28: error: request for member 'data' in something not a structure or union
+/Users/ruthcfong/Desktop/Authentication/Classes/ConnectionDelegate.m: In function '-[ConnectionDelegate connection:didReceiveData:]':
+/Users/ruthcfong/Desktop/Authentication/Classes/ConnectionDelegate.m:33: error: request for member 'data' in something not a structure or union

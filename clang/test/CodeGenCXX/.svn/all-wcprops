@@ -1,0 +1,505 @@
+END
+unary-type-trait.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/91446/cfe/trunk/test/CodeGenCXX/unary-type-trait.cpp
+END
+PR5050-constructor-conversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/141900/cfe/trunk/test/CodeGenCXX/PR5050-constructor-conversion.cpp
+END
+static-data-member.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/143204/cfe/trunk/test/CodeGenCXX/static-data-member.cpp
+END
+attr-used.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/132945/cfe/trunk/test/CodeGenCXX/attr-used.cpp
+END
+virt-template-vtable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/124089/cfe/trunk/test/CodeGenCXX/virt-template-vtable.cpp
+END
+template-dependent-bind-temporary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/118066/cfe/trunk/test/CodeGenCXX/template-dependent-bind-temporary.cpp
+END
+global-dtor-no-atexit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/106384/cfe/trunk/test/CodeGenCXX/global-dtor-no-atexit.cpp
+END
+assign-operator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/143172/cfe/trunk/test/CodeGenCXX/assign-operator.cpp
+END
+value-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/147384/cfe/trunk/test/CodeGenCXX/value-init.cpp
+END
+pr9965.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/148178/cfe/trunk/test/CodeGenCXX/pr9965.cpp
+END
+2007-07-29-RestrictPtrArg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/138134/cfe/trunk/test/CodeGenCXX/2007-07-29-RestrictPtrArg.cpp
+END
+2005-02-20-BrokenReferenceTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/138148/cfe/trunk/test/CodeGenCXX/2005-02-20-BrokenReferenceTest.cpp
+END
+2007-01-06-PtrMethodInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/144112/cfe/trunk/test/CodeGenCXX/2007-01-06-PtrMethodInit.cpp
+END
+copy-assign-synthesis-3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/93546/cfe/trunk/test/CodeGenCXX/copy-assign-synthesis-3.cpp
+END
+2006-03-01-GimplifyCrash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/138148/cfe/trunk/test/CodeGenCXX/2006-03-01-GimplifyCrash.cpp
+END
+static-assert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/141900/cfe/trunk/test/CodeGenCXX/static-assert.cpp
+END
+stmtexpr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/133011/cfe/trunk/test/CodeGenCXX/stmtexpr.cpp
+END
+destructor-calls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/91446/cfe/trunk/test/CodeGenCXX/destructor-calls.cpp
+END
+member-init-struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/91446/cfe/trunk/test/CodeGenCXX/member-init-struct.cpp
+END
+conditional-temporaries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/95312/cfe/trunk/test/CodeGenCXX/conditional-temporaries.cpp
+END
+global-llvm-constant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/131276/cfe/trunk/test/CodeGenCXX/global-llvm-constant.cpp
+END
+2004-03-08-ReinterpretCastCopy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/138157/cfe/trunk/test/CodeGenCXX/2004-03-08-ReinterpretCastCopy.cpp
+END
+cxx0x-delegating-ctors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/141900/cfe/trunk/test/CodeGenCXX/cxx0x-delegating-ctors.cpp
+END
+2005-02-13-BadDynamicInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/138148/cfe/trunk/test/CodeGenCXX/2005-02-13-BadDynamicInit.cpp
+END
+template-anonymous-types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/134866/cfe/trunk/test/CodeGenCXX/template-anonymous-types.cpp
+END
+anonymous-union-member-initializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/137212/cfe/trunk/test/CodeGenCXX/anonymous-union-member-initializer.cpp
+END
+virt-call-offsets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/134840/cfe/trunk/test/CodeGenCXX/virt-call-offsets.cpp
+END
+implicit-copy-constructor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/133221/cfe/trunk/test/CodeGenCXX/implicit-copy-constructor.cpp
+END
+mangle-local-classes-nested.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/116752/cfe/trunk/test/CodeGenCXX/mangle-local-classes-nested.cpp
+END
+constructor-conversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/141900/cfe/trunk/test/CodeGenCXX/constructor-conversion.cpp
+END
+debug-info-namespace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/130681/cfe/trunk/test/CodeGenCXX/debug-info-namespace.cpp
+END
+instantiate-temporaries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/146454/cfe/trunk/test/CodeGenCXX/instantiate-temporaries.cpp
+END
+member-initializers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/102825/cfe/trunk/test/CodeGenCXX/member-initializers.cpp
+END
+cast-conversion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/141900/cfe/trunk/test/CodeGenCXX/cast-conversion.cpp
+END
+instrument-functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/131435/cfe/trunk/test/CodeGenCXX/instrument-functions.cpp
+END
+virtual-destructor-calls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/124210/cfe/trunk/test/CodeGenCXX/virtual-destructor-calls.cpp
+END
+2003-11-29-DuplicatedCleanupTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/138162/cfe/trunk/test/CodeGenCXX/2003-11-29-DuplicatedCleanupTest.cpp
+END
+class-layout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/141350/cfe/trunk/test/CodeGenCXX/class-layout.cpp
+END
+debug-info-enum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/110713/cfe/trunk/test/CodeGenCXX/debug-info-enum.cpp
+END
+2005-02-11-AnonymousUnion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/138148/cfe/trunk/test/CodeGenCXX/2005-02-11-AnonymousUnion.cpp
+END
+nrvo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/144428/cfe/trunk/test/CodeGenCXX/nrvo.cpp
+END
+key-function-vtable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/126016/cfe/trunk/test/CodeGenCXX/key-function-vtable.cpp
+END
+unknown-anytype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/129331/cfe/trunk/test/CodeGenCXX/unknown-anytype.cpp
+END
+vtable-key-function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/124089/cfe/trunk/test/CodeGenCXX/vtable-key-function.cpp
+END
+array-value-initialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/122309/cfe/trunk/test/CodeGenCXX/array-value-initialize.cpp
+END
+static-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/139650/cfe/trunk/test/CodeGenCXX/static-init.cpp
+END
+debug-info-method.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/143791/cfe/trunk/test/CodeGenCXX/debug-info-method.cpp
+END
+2003-11-02-WeakLinkage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/138162/cfe/trunk/test/CodeGenCXX/2003-11-02-WeakLinkage.cpp
+END
+virtual-base-ctor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/123478/cfe/trunk/test/CodeGenCXX/virtual-base-ctor.cpp
+END
+function-template-specialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/91446/cfe/trunk/test/CodeGenCXX/function-template-specialization.cpp
+END
+x86-64-abi-sret-vs-2word-struct-param.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/137762/cfe/trunk/test/CodeGenCXX/x86-64-abi-sret-vs-2word-struct-param.cpp
+END
+c99-variable-length-array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/124685/cfe/trunk/test/CodeGenCXX/c99-variable-length-array.cpp
+END
+global-init-darwin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/105660/cfe/trunk/test/CodeGenCXX/global-init-darwin.cpp
+END
+derived-to-virtual-base-class-calls-final.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/129672/cfe/trunk/test/CodeGenCXX/derived-to-virtual-base-class-calls-final.cpp
+END
+debug-info-this.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/128966/cfe/trunk/test/CodeGenCXX/debug-info-this.cpp
+END
+debug-info-member.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/143791/cfe/trunk/test/CodeGenCXX/debug-info-member.cpp
+END
+template-inner-struct-visibility-hidden.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/129342/cfe/trunk/test/CodeGenCXX/template-inner-struct-visibility-hidden.cpp
+END
+vtable-linkage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/129559/cfe/trunk/test/CodeGenCXX/vtable-linkage.cpp
+END
+2008-01-12-VecInit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/138114/cfe/trunk/test/CodeGenCXX/2008-01-12-VecInit.cpp
+END
+member-expressions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/99963/cfe/trunk/test/CodeGenCXX/member-expressions.cpp
+END
+2003-12-08-ArrayOfPtrToMemberFunc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/138162/cfe/trunk/test/CodeGenCXX/2003-12-08-ArrayOfPtrToMemberFunc.cpp
+END
+abstract-class-ctors-dtors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/136180/cfe/trunk/test/CodeGenCXX/abstract-class-ctors-dtors.cpp
+END
+2010-03-09-AnonAggregate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/98083/cfe/trunk/test/CodeGenCXX/2010-03-09-AnonAggregate.cpp
+END
+2007-10-01-StructResize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/138117/cfe/trunk/test/CodeGenCXX/2007-10-01-StructResize.cpp
+END
+mangle-subst-std.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/140503/cfe/trunk/test/CodeGenCXX/mangle-subst-std.cpp
+END
+reinterpret-cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/141900/cfe/trunk/test/CodeGenCXX/reinterpret-cast.cpp
+END
+virtual-functions-incomplete-types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/134831/cfe/trunk/test/CodeGenCXX/virtual-functions-incomplete-types.cpp
+END
+threadsafe-statics-exceptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/140049/cfe/trunk/test/CodeGenCXX/threadsafe-statics-exceptions.cpp
+END
+2007-04-05-PackedBitFieldsOverlap-2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/138134/cfe/trunk/test/CodeGenCXX/2007-04-05-PackedBitFieldsOverlap-2.cpp
+END
+try-catch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/126599/cfe/trunk/test/CodeGenCXX/try-catch.cpp
+END
+2009-08-05-ZeroInitWidth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/138097/cfe/trunk/test/CodeGenCXX/2009-08-05-ZeroInitWidth.cpp
+END
+incomplete-member-function-pointer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/105151/cfe/trunk/test/CodeGenCXX/incomplete-member-function-pointer.cpp
+END
+specialized-static-data-mem-init.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/129342/cfe/trunk/test/CodeGenCXX/specialized-static-data-mem-init.cpp
+END
+rtti-visibility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/124555/cfe/trunk/test/CodeGenCXX/rtti-visibility.cpp
+END
+virt-thunk-reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/91446/cfe/trunk/test/CodeGenCXX/virt-thunk-reference.cpp
+END
+weak-external.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/138075/cfe/trunk/test/CodeGenCXX/weak-external.cpp
+END
+for-range-temporaries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/141900/cfe/trunk/test/CodeGenCXX/for-range-temporaries.cpp
+END
+static-member-variable-explicit-specialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/91446/cfe/trunk/test/CodeGenCXX/static-member-variable-explicit-specialization.cpp
+END
+vararg-conversion-ctor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/141900/cfe/trunk/test/CodeGenCXX/vararg-conversion-ctor.cpp
+END
+dynamic-cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/140049/cfe/trunk/test/CodeGenCXX/dynamic-cast.cpp
+END
+apple-kext-indirect-virtual-dtor-call.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/124757/cfe/trunk/test/CodeGenCXX/apple-kext-indirect-virtual-dtor-call.cpp
+END
+rtti-fundamental.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/123293/cfe/trunk/test/CodeGenCXX/rtti-fundamental.cpp
+END
+PR5093-static-member-function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/91446/cfe/trunk/test/CodeGenCXX/PR5093-static-member-function.cpp
+END
+visibility-inlines-hidden.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/147295/cfe/trunk/test/CodeGenCXX/visibility-inlines-hidden.cpp
+END

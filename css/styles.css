@@ -1,0 +1,71 @@
+/****************************************************************************
+ * styles.css
+ *
+ * Computer Science 50
+ * Problem Set 7
+ *
+ * Global stylesheet.
+ ***************************************************************************/
+
+
+/* eliminate borders around images in anchor tags */
+a img
+{
+    border: 0;
+}
+
+/* defaults for body */
+body
+{
+    background: #ffffff;
+    color: #000000;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+/* center text in bottom div */
+div#bottom
+{
+    margin: 1em;
+    text-align: center;
+}
+
+/* center text in middle div */
+div#middle
+{
+    text-align: center;
+}
+
+/* center text in top div */
+div#top
+{
+    text-align: center;
+}
+
+/* eliminate margins around forms */
+form
+{
+    margin: 0;
+}
+
+
+/* center tables */
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* pad but eliminate borders around table cells */
+td, th 
+{
+    border: 0 none;
+    padding: 0.25em;
+}
+
+/* eliminate margins around forms */
+form
+{
+    margin: 0;
+}
+

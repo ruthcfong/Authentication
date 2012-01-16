@@ -1,0 +1,13 @@
+END
+TestRunner.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/82406/cfe/trunk/test/TestRunner.sh
+END
+lit.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/145231/cfe/trunk/test/lit.cfg
+END

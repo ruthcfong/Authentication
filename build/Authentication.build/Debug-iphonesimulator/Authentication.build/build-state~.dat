@@ -1,0 +1,256 @@
+TAuthentication
+v7
+r0
+t346209333.051046
+cCheck dependencies
+cProcessInfoPlistFile /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Info.plist Authentication-Info.plist
+cCompileXIB /Users/ruthcfong/Desktop/Authentication/MainWindow.xib
+cCompileXIB /Users/ruthcfong/Desktop/Authentication/AuthenticationViewController.xib
+cProcessPCH /var/folders/0w/0wOfEkqmHlOI95HFlhQgz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Authentication_Prefix-gnlnoyajgavnzygurkbcuobqfviv/Authentication_Prefix.pch.gch Authentication_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/main.o /Users/ruthcfong/Desktop/Authentication/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/AuthenticationAppDelegate.o /Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/AuthenticationViewController.o /Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Authentication normal i386
+cGenerateDSYMFile /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app.dSYM /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Authentication
+cTouch /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/ruthcfong/Desktop/Authentication/AuthenticationViewController.xib
+c000000004EF2825C0000000000001A61
+t1324515932
+s6753
+
+N/Users/ruthcfong/Desktop/Authentication/Authentication_Prefix.pch
+c000000004EF2825C00000000000000C5
+t1324515932
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationAppDelegate.h
+c000000004EF2825C0000000000000205
+t1324515932
+s517
+i<UIKit/UIKit.h>
+
+N/Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationAppDelegate.m
+c000000004EF2825C0000000000000AC9
+t1324515932
+s2761
+i"AuthenticationAppDelegate.h"
+i"AuthenticationViewController.h"
+
+N/Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationViewController.h
+c000000004EF284B20000000000000102
+t1324516530
+s258
+i<UIKit/UIKit.h>
+
+N/Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationViewController.m
+c000000004EF2825C00000000000005D9
+t1324515932
+s1497
+i"AuthenticationViewController.h"
+
+N/Users/ruthcfong/Desktop/Authentication/MainWindow.xib
+c000000004EF2825C0000000000004E7D
+t1324515932
+s20093
+
+N/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/Authentication.LinkFileList
+c000000004EF284B200000000000001C8
+t1324516530
+s456
+
+N/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/AuthenticationAppDelegate.o
+t1324516532
+s51716
+
+N/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/AuthenticationViewController.o
+t1324516532
+s38096
+
+N/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/main.o
+t1324516532
+s6312
+
+N/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app
+t1324516533
+s238
+
+N/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app.dSYM
+t1324516532
+s102
+
+N/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Authentication
+t1324516532
+s17436
+
+N/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/AuthenticationViewController.nib
+t1324516531
+s1269
+
+N/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Info.plist
+t1324516530
+s619
+
+N/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/MainWindow.nib
+t1324516531
+s1695
+
+N/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/PkgInfo
+t1324516530
+s8
+
+N/Users/ruthcfong/Desktop/Authentication/main.m
+c000000004EF2825C000000000000016C
+t1324515932
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/0w/0wOfEkqmHlOI95HFlhQgz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Authentication_Prefix-gnlnoyajgavnzygurkbcuobqfviv/Authentication_Prefix.pch.gch
+t1324516532
+s15814064
+
+NAuthentication-Info.plist
+c000000004EF2825C000000000000038D
+t1324515932
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies346209330#346209330#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/AuthenticationAppDelegate.o /Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346209332.368572
+e346209332.504947
+r1
+xCompileC
+xbuild/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/AuthenticationAppDelegate.o
+x/Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationAppDelegate.m346209332#346209332#0(0"0(0#0#75"/Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationAppDelegate.m8616980192#2115"    cd /Users/ruthcfong/Desktop/Authentication    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-generated-files.hmap -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-own-target-headers.hmap -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-all-target-headers.hmap -iquote /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-project-headers.hmap -F/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator -I/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/include -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/DerivedSources/i386 -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/DerivedSources -include /var/folders/0w/0wOfEkqmHlOI95HFlhQgz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Authentication_Prefix-gnlnoyajgavnzygurkbcuobqfviv/Authentication_Prefix.pch -c /Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationAppDelegate.m -o /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/AuthenticationAppDelegate.o0#
+
+CCompileC build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/AuthenticationViewController.o /Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346209332.369565
+e346209332.494106
+r1
+xCompileC
+xbuild/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/AuthenticationViewController.o
+x/Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationViewController.m346209332#346209332#0(0"0(0#0#78"/Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationViewController.m8617467552#2121"    cd /Users/ruthcfong/Desktop/Authentication    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-generated-files.hmap -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-own-target-headers.hmap -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-all-target-headers.hmap -iquote /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-project-headers.hmap -F/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator -I/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/include -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/DerivedSources/i386 -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/DerivedSources -include /var/folders/0w/0wOfEkqmHlOI95HFlhQgz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Authentication_Prefix-gnlnoyajgavnzygurkbcuobqfviv/Authentication_Prefix.pch -c /Users/ruthcfong/Desktop/Authentication/Classes/AuthenticationViewController.m -o /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/AuthenticationViewController.o0#
+
+CCompileC build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/main.o /Users/ruthcfong/Desktop/Authentication/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346209332.367498
+e346209332.484559
+r1
+xCompileC
+xbuild/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/main.o
+x/Users/ruthcfong/Desktop/Authentication/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/ruthcfong/Desktop/Authentication/main.m346209332#346209332#0(0"0(0#0#46"/Users/ruthcfong/Desktop/Authentication/main.m8617082496#2065"    cd /Users/ruthcfong/Desktop/Authentication    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-generated-files.hmap -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-own-target-headers.hmap -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-all-target-headers.hmap -iquote /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-project-headers.hmap -F/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator -I/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/include -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/DerivedSources/i386 -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/DerivedSources -include /var/folders/0w/0wOfEkqmHlOI95HFlhQgz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Authentication_Prefix-gnlnoyajgavnzygurkbcuobqfviv/Authentication_Prefix.pch -c /Users/ruthcfong/Desktop/Authentication/main.m -o /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/ruthcfong/Desktop/Authentication/AuthenticationViewController.xib
+s346209330.602769
+e346209331.160342
+r1
+xCompileXIB
+x/Users/ruthcfong/Desktop/Authentication/AuthenticationViewController.xib
+lSLF07#2@43"CompileXIB AuthenticationViewController.xib346209330#346209331#0(0"0(0#0#72"/Users/ruthcfong/Desktop/Authentication/AuthenticationViewController.xib8617239808#616"    cd /Users/ruthcfong/Desktop/Authentication    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/AuthenticationViewController.nib /Users/ruthcfong/Desktop/Authentication/AuthenticationViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/ruthcfong/Desktop/Authentication/MainWindow.xib
+s346209330.589213
+e346209331.165385
+r1
+xCompileXIB
+x/Users/ruthcfong/Desktop/Authentication/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib346209330#346209331#0(0"0(0#0#54"/Users/ruthcfong/Desktop/Authentication/MainWindow.xib8617464512#580"    cd /Users/ruthcfong/Desktop/Authentication    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/MainWindow.nib /Users/ruthcfong/Desktop/Authentication/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app.dSYM /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Authentication
+s346209332.903633
+e346209333.013480
+r1
+xGenerateDSYMFile
+x/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app.dSYM
+x/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Authentication
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/Authentication.app.dSYM build/Debug-iphonesimulator/Authentication.app/Authentication346209332#346209333#0(0"0(0#0#101"/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Authentication8592828672#407"    cd /Users/ruthcfong/Desktop/Authentication    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Authentication -o /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app.dSYM0#
+
+CLd /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Authentication normal i386
+s346209332.505015
+e346209332.903557
+r1
+xLd
+x/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Authentication
+xnormal
+xi386
+lSLF07#2@106"Link /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Authentication346209332#346209332#0(0"0(0#0#0"8617460992#940"    cd /Users/ruthcfong/Desktop/Authentication    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator -F/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator -filelist /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Objects-normal/i386/Authentication.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Authentication0#
+
+CProcessInfoPlistFile /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Info.plist Authentication-Info.plist
+s346209330.529863
+e346209330.589127
+r1
+xProcessInfoPlistFile
+x/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Info.plist
+xAuthentication-Info.plist
+lSLF07#2@33"Process Authentication-Info.plist346209330#346209330#0(0"0(0#0#65"/Users/ruthcfong/Desktop/Authentication/Authentication-Info.plist30399800003068008#503"    cd /Users/ruthcfong/Desktop/Authentication    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Authentication-Info.plist -genpkginfo /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app/Info.plist0#
+
+CProcessPCH /var/folders/0w/0wOfEkqmHlOI95HFlhQgz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Authentication_Prefix-gnlnoyajgavnzygurkbcuobqfviv/Authentication_Prefix.pch.gch Authentication_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s346209331.165522
+e346209332.367379
+r1
+xProcessPCH
+x/var/folders/0w/0wOfEkqmHlOI95HFlhQgz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Authentication_Prefix-gnlnoyajgavnzygurkbcuobqfviv/Authentication_Prefix.pch.gch
+xAuthentication_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile Authentication_Prefix.pch346209331#346209332#0(0"0(0#0#65"/Users/ruthcfong/Desktop/Authentication/Authentication_Prefix.pch8617361888#1949"    cd /Users/ruthcfong/Desktop/Authentication    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-generated-files.hmap -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-own-target-headers.hmap -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-all-target-headers.hmap -iquote /Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/Authentication-project-headers.hmap -F/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator -I/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/include -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/DerivedSources/i386 -I/Users/ruthcfong/Desktop/Authentication/build/Authentication.build/Debug-iphonesimulator/Authentication.build/DerivedSources -c /Users/ruthcfong/Desktop/Authentication/Authentication_Prefix.pch -o /var/folders/0w/0wOfEkqmHlOI95HFlhQgz++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Authentication_Prefix-gnlnoyajgavnzygurkbcuobqfviv/Authentication_Prefix.pch.gch0#
+
+CTouch /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app
+s346209333.013542
+e346209333.050996
+r1
+xTouch
+x/Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app
+lSLF07#2@92"Touch /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app346209333#346209333#0(0"0(0#0#0"8600613216#287"    cd /Users/ruthcfong/Desktop/Authentication    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ruthcfong/Desktop/Authentication/build/Debug-iphonesimulator/Authentication.app0#
+
