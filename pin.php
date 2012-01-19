@@ -40,6 +40,7 @@ $response = submitHTTPpost($cookie_file, "https://www.pin1.harvard.edu/pin/authe
 // submit HUID & PIN for authentication & remember cookies via POST submission
 $response = submitHTTPpost($cookie_file, "https://www.pin1.harvard.edu/pin/submit-login", true, "__authen_application=VPA_HUDS_MYHUDS&__authen_login_type=PIN&__authen_id=".$_POST['huid']."&__authen_password=".$_POST['password']);
 
+
 // check if there's a page that's being the PIN site is trying to redirect
 preg_match('/<meta http-equiv="Refresh" content="3; URL=([\w\:\/\.\?=\%\&\+]+)/', $response, $matches);
 
@@ -55,8 +56,11 @@ if (count($matches) > 1)
   return;
 }*/
 
+//echo "right before third submission";
 // submit order via GET submission
-$response = submitHTTPpost($cookie_file,$_POST['order'] ,false, "");
+$response = submitHTTPpost($cookie_file,$_POST['url'] ,false, "");
+//echo "third submission done";
+
 //$response = submitHTTPpost($cookie_file,"http://www.dining.harvard.edu/myhuds/students/breakfast/?action=submit&pickup=2012-01-16&order%5Blocation_id%5D=FD&order%5Bdelivery_time%5D=07%3A00&pickup_list=0&items%5B8%20oz%20Cottage%20Cheese%5D=on",false, "");
 
 header("HTTP/1.1 200 OK");

@@ -26,7 +26,7 @@
           </tr>
           <tr>
             <td>Order Information:</td>
-            <td><input name="order" type="text"></td>
+            <td><input name="url" type="text"></td>
           </tr>
 
           <tr>
